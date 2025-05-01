@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rakshit Shind 👋</h1>
+<h1 align="center">Hi, I'm Rakshit Shinde 👋</h1>
 <p align="center">
   <i> A software engineer by day, a procrastinator by choice, and a coder when inspiration strikes. </i>
     <br>
@@ -28,7 +28,7 @@
 
 
 ### 📊 GitHub Stats & Activity
-<p>
+<p align="center">
 
 <a href="https://github.com/wervlad">
     <img src="https://github-readme-stats.vercel.app/api?username=rakshit4045&show_icons=true&count_private=true&hide=prs&theme=radical" />
@@ -36,8 +36,9 @@
 <a href="https://github.com/wervlad">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit4045&layout=compact&theme=radical" />
 </a>
-
+</p>
 <hr>
+<p align="center">
 
 <a href="https://github.com/wervlad">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshit4045&hide_border=true&card_width=338&theme=transparent" />
@@ -48,6 +49,3 @@
 </a>
 </p>
 
----
-
-<p align="center">Thanks for stopping by! ⭐️</p>
