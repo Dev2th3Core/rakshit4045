@@ -9,7 +9,7 @@
     <a href="mailto:rakshitshinde.work@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://yourportfolio.com">
+    <a href="https://dev2th3core.site">
         <img src="https://img.shields.io/badge/Portfolio-00B0B9?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio">
     </a>
 </p>
