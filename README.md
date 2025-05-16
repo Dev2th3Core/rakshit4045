@@ -31,10 +31,10 @@
 <p align="center">
 
 <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakshit4045&show_icons=true&count_private=true&hide=prs&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rakshit4045&show_icons=true&count_private=true&hide=prs&theme=radical" />
 </a>
 <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit4045&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit4045&layout=compact&theme=radical" />
 </a>
 </p>
 <hr>
