@@ -16,17 +16,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🧠 Software Engineer with **2+ years of experience**
-- 🏥 Contributing to Microsoft’s open-source **FHIR Service**
-- 🚀 Building modern solutions with **.NET, Azure, ReactJS**
-- 🧪 Exploring cloud-native, DevOps, and healthcare IT
-- 🧰 Open to collaboration and learning opportunities
-
----
-
-
 ### 📊 GitHub Stats & Activity
 <p align="center">
 
