@@ -20,21 +20,21 @@
 <p align="center">
 
 <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rakshit4045&show_icons=true&count_private=true&hide=prs&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dev2th3Core&show_icons=true&count_private=true&hide=prs&theme=radical" />
 </a>
 <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit4045&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2th3Core&layout=compact&theme=radical" />
 </a>
 </p>
 <hr>
 <p align="center">
 
 <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshit4045&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev2th3Core&hide_border=true&card_width=338&theme=transparent" />
 </a>
 
 <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakshit4045&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev2th3Core&theme=transparent" />
 </a>
 </p>
 
